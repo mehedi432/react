@@ -1,0 +1,37 @@
+body{
+  font-family: "Ubuntu mono";
+
+}
+.mainLogo img{
+  width: "auto";
+  vertical-align: middle;
+  padding-left: 89pt;
+  padding-right: 89pt;
+}
+.mainNav{
+  padding-left: 34px;
+  padding-right: 144px;
+  font-weight: 300;
+  letter-spacing: 1.6px; 
+  background-color: #187cfc;
+  color: azure;
+}
+.w3-bar{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+}
+
+h1,h4{
+  font-weight: 700;
+}
+
+p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.notice {
+    font-weight: 700;
+    font-size: 21px;
+}
